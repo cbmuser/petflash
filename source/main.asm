@@ -391,7 +391,7 @@ copy:     ldy #$00
           rts  
 
 ;--------------------------------------------------
-; Address Switch
+; Firmware/Option ROM Switch
 ;
 ; frm_optn: $00/$01  
 ;
